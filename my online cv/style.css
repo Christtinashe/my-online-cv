@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #3909e8; /* white */
+
+    
+  }
+  
+  h1 {
+    color: #006699;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #006699;
+  }
+  
+  img {
+    border: 1px solid #cccccc;
+  }
